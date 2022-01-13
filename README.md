@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeConsole
 - 👀 I’m interested in coding like a pro
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and wordpress
 - 💞️ I’m looking to collaborate on great ideas
 - 📫 Reach me at dennisnjunge@gmail.com
 
